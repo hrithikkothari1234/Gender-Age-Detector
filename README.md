@@ -26,8 +26,8 @@ The 3 trained models were too big to upload
 
 * From Webcam
 
-![](https://github.com/hrithikkothari1234/Gender-Age-Detector.blob/master/exampleimages/output1.png?raw=true)
+![](https://github.com/hrithikkothari1234/Gender-Age-Detector/blob/master/exampleimages/output1.png?raw=true)
 
 * From Image
 
-![](https://github.com/hrithikkothari1234/Gender-Age-Detector.blob/master/exampleimages/output2.png?raw=true)
+![](https://github.com/hrithikkothari1234/Gender-Age-Detector/blob/master/exampleimages/output2.png?raw=true)
